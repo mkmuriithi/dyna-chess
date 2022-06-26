@@ -18,7 +18,8 @@ As a following stage, a *computer vs computer* mode (with an accompanying API) m
 
 ### Backend
 
-- Flask
+- Django
+- Node.js (npm)
 
 ### Database
 
