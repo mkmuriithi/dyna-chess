@@ -3,7 +3,11 @@
 
 ## Motivation
 
-Tne end go
+What happens when you take *Good Ol' Fashioned AI*, Statistical Models, Neural Networks, and throw them all at the game of chess. Well, you get this project :)
+
+The goal of this project is to create a single player game of chess (i.e. player vs computer), where the player can play against a computer with various configurable underlying AI models (e.g. Breadth First Search, Depth First Search, Decision Trees, Neural Networks, etc.)
+
+As a following stage, a *computer vs computer* mode (with an accompanying API) may follow, allowing users to run simulations and AIs of their creation battle it out with AIs provided in this project.
 
 ## Dependencies
 
@@ -13,6 +17,7 @@ Tne end go
 - ReactJS
 
 ### Backend
+
 - Flask
 
 ### Database
@@ -23,7 +28,7 @@ Tne end go
 
 (to be updated)
 
-## Contribution
+## Contribution
 
 Contribution is always welcome from anyone that finds this project exciting. Note that trunk-based development is the version control management practice used for this project.
 
