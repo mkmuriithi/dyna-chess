@@ -27,6 +27,14 @@ As a following stage, a *computer vs computer* mode (with an accompanying API) m
 
 ## Installation
 
+Install NodeJS via the relevant package manager for your OS
+
+Mac:
+brew install npm
+npm install react-bootstrap bootstrap
+
+
+Remember to add node, react-bootsrap and bootstrap to .gitignore
 (to be updated)
 
 ## Contribution
