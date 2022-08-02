@@ -1,6 +1,0 @@
-Environment managed with virtualenv.
-
-Python 3.10
-Dhango version 4.0
-
-
